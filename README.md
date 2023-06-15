@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @revollrud
-- 👀 I’m interested in ...
-      electronics, linux, 3d priting, cli interfaces
-      and eccentric keyboards
-- 🌱 I’m currently learning ...
-      inux, bash and personal server hosting
+
 - 📫 How to reach me ...
       post@revollrud.xyz
 
